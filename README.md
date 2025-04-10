@@ -9,7 +9,7 @@ git checkout -b readme-edits
   _A high school chemistry teacher turned methamphetamine producer._
 2. **Stranger Things**  
   *Ganre:* Sci-Fi, Horor  
-  _A group of kids uncover secret experiments and fight supernatural forces._
+  _A group of kids uncover secret experiments and fight supernatural forces.okol_
 3. **The Office (US)**  
   *Genre:* Comedy  
   _A hilarious mockumentary about office life._
